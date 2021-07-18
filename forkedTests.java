@@ -4,6 +4,11 @@ class ForkedTest {
 
     void main() {
         System.out.println("THIS IS A TEST");
+        System.out.println("THIS IS A TEST");
+        System.out.println("THIS IS A TEST");
+        System.out.println("THIS IS A TEST");
+        System.out.println("THIS IS A TEST");
+        System.out.println("THIS IS A TEST");
     }
 
 }
